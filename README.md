@@ -1,0 +1,3 @@
+- 👋 Jose Cardeña Olivares.
+- 👀 DAW 2 - Thos i Codina
+- 🌱 I’m currently learning Java, JavaScript, PHP.
